@@ -4,7 +4,7 @@
 必要なライブラリは次のようにコマンド入力してください。
 pip install -r library_install.txt
 
-train_modelpyをまずは実行してください。
+train_model.pyをまずは実行してください。
 .pklファイルが作成されればOKです。
 なお、train_modelpyで学習用のcsvファイル置き場を指定しているため、修正するかもしくはソースコードに倣う必要があります。
 
