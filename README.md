@@ -10,3 +10,5 @@ train_model.pyをまずは実行してください。
 
 次にstreamlit_app.pyを実行します。
 streamlitライブラリで実装しているため、pythonコマンドではなく、streamlit run streamlit_app.pyと入力してください。
+
+なお、このリポジトリのソースコードはDevinで作成しました。
